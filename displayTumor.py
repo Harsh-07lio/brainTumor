@@ -45,4 +45,4 @@ class DisplayTumor:
         tumorImage = cv.cvtColor(self.Img, cv.COLOR_HSV2BGR)
         self.curImg = tumorImage 
         
-              
+            #   
